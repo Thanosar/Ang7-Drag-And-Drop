@@ -9,9 +9,9 @@ Here is a list of 4 things we need to be able to use the Drag and Drop tool in A
 ## Angular Material installed on the above app
 `ng add @angular/material`
 
-## Import Drag Drop module in the app module file. (app.module.ts)
+##  Rendering a list
 
-## Rendering a list. Open the app component file and add an array of hotels for example.
+Open the app component file and add an array of hotels for example.
 `hotels = [
     'Arena Hotel - Amsterdam',
     'Grand Hotel Amstelveen - Amsterdam',
@@ -22,3 +22,9 @@ Here is a list of 4 things we need to be able to use the Drag and Drop tool in A
     'Adele Designhotel - Berlin',
 
   ];`
+  
+  And then mport Drag Drop module in the app module file. (app.module.ts)
+
+## Running the app
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
