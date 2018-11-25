@@ -1,4 +1,4 @@
-# Getting started
+# Interactive Lists with the new Angular 7 Drag and Drop tool
 
 Here is a list of 4 things we need to be able to use the Drag and Drop tool in Angular 7
 
