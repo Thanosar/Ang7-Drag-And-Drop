@@ -2,15 +2,23 @@
 
 Here is a list of 4 things we need to be able to use the Drag and Drop tool in Angular 7
 
-1) 
-//cd to a preferred location
+## cd to a preferred location
 // run the command below
-ng new dragdrop
+`ng new dragdrop`
 
-2)
-//Angular Material installed on the above app
-ng add @angular/material
+## Angular Material installed on the above app
+`ng add @angular/material`
 
-3) Import Drag Drop module in the app module file. (app.module.ts)
+## Import Drag Drop module in the app module file. (app.module.ts)
 
-4) Rendering a list. Open the app component file and add an array of hotels for example.
+## Rendering a list. Open the app component file and add an array of hotels for example.
+`hotels = [
+    'Arena Hotel - Amsterdam',
+    'Grand Hotel Amstelveen - Amsterdam',
+    'Arenas Atiram Hotel- Barcelona',
+    'Catalonia Atenas - Barcelona',
+    'Catalonia Magdalenes - Barcelona',
+    'Abba Berlin hotel - Berlin',
+    'Adele Designhotel - Berlin',
+
+  ];`
