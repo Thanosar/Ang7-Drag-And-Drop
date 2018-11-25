@@ -12,16 +12,16 @@ Here is a list of 4 things we need to be able to use the Drag and Drop tool in A
 ##  Rendering a list
 
 Open the app component file and add an array of hotels for example.
-`hotels = [
+`
+hotels = [
     'Arena Hotel - Amsterdam',
     'Grand Hotel Amstelveen - Amsterdam',
     'Arenas Atiram Hotel- Barcelona',
     'Catalonia Atenas - Barcelona',
     'Catalonia Magdalenes - Barcelona',
     'Abba Berlin hotel - Berlin',
-    'Adele Designhotel - Berlin',
-
-  ];`
+    'Adele Designhotel - Berlin'];
+    `
   
   And then mport Drag Drop module in the app module file. (app.module.ts)
 
