@@ -24,7 +24,12 @@ hotels = [
     `
   
   And then mport Drag Drop module in the app module file. (app.module.ts)
+  
+  ![alt text](https://i.imgur.com/TxFHE0s.png)
+
 
 ## Running the app
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
